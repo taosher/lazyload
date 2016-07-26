@@ -17,7 +17,7 @@
 
    ```javascript
    require(['lazyload'],function() {
-     $('xxx').lazyload();
+     //$('xxx').lazyload();
    })
    ```
 
